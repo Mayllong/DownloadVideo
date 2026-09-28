@@ -1,1 +1,1 @@
-2.0,https://github.io
+1.0,https://github.io
